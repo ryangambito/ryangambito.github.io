@@ -26,9 +26,8 @@ I do web development. I usually work with Drupal projects, but I also work with 
 <img alt="digitalocean" width="50" align="left" style="margin: 10px 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" />
 <img alt="linux" width="50" align="left" style="margin: 10px 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
-<br><br><br><br><br>
+---
 
-#
 ### My Latest Video Tutorials
 
 [![Black Widow](https://img.youtube.com/vi/hRY5_VwvD_g/mqdefault.jpg)](https://www.youtube.com/watch?v=hRY5_VwvD_g)
