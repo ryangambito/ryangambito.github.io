@@ -3,7 +3,7 @@
 
 I do web development. I usually work with Drupal projects, but I also work with Wordpress and Laravel projects once in a while.
 
-[View GitHub Profile](https://www.genome.gov/)
+[View GitHub Profile](https://github.com/ryangambito)
 
 ---
 
