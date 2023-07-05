@@ -1,3 +1,4 @@
+**<img src="https://avatars.githubusercontent.com/u/4945859?v=4" width="90" style="border-radius: 100%">**
 **Hi there, I'm Ryan** 👋
 
 I do web development. I usually work with Drupal projects, but I also work with Wordpress and Laravel projects once in a while.
@@ -28,7 +29,7 @@ I do web development. I usually work with Drupal projects, but I also work with 
 
 ---
 
-### My Latest Video Tutorials
+### My Latest Video Tutorial
 
-[![Black Widow](https://img.youtube.com/vi/hRY5_VwvD_g/mqdefault.jpg)](https://www.youtube.com/watch?v=hRY5_VwvD_g)
-[![Black Widow](https://img.youtube.com/vi/a6gv9tyu7aQ/mqdefault.jpg)](https://www.youtube.com/watch?v=a6gv9tyu7aQ)
+[![Black Widow](https://img.youtube.com/vi/hRY5_VwvD_g/maxresdefault.jpg)](https://www.youtube.com/watch?v=hRY5_VwvD_g)
+
